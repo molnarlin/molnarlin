@@ -1,4 +1,4 @@
-#Hi there! Welcome to my GitHub site!
+# Hi there! Welcome to my GitHub site!
 
 Hi! My name is Katalin. I'm studying Full Stack Development with Runshaw College and Code Institute. I'm very interested in coding, and building websites and applications for the web.
 
@@ -15,7 +15,10 @@ Tools:
 - 🌱 I’m currently learning HTML, CSS, Python, and JavaScript.
 - 💞️ I’m looking to collaborate on not yet.
 - 📫 My email address is molnarlin@gmail.com.
-- 👀 Fun fact: my favorite chili grows in Hungary and it is called "apple chili" = "alma paprika".
+- &nbsp Fun fact: my favorite chili grows in Hungary and it is called "apple chili" = "alma paprika".
+
+[![Katalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=molnarlin)](https://github.com/molnarlin/github-readme-stats)
+
 
 <!---
 molnarlin/molnarlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
