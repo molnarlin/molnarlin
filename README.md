@@ -10,7 +10,7 @@ Responsive design | Critical thinking | Active listening | Positive attitude | C
 
 ## Tools:
 
-![fa-html5](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/fa-html5.svg)  ![fa-css3-alt](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/fa-css3-alt.svg)  ![fa-python](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/fa-python.svg)    ![fa-js](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/fa-js.svg)  
+### HTML5  | CSS3  | JavaScript  |  Python
 
 - 👋 Hi, I’m Katalin Molnar.
 - 👀 I’m interested in Software Development.
