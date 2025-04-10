@@ -2,7 +2,7 @@
 
 # 🖐 Hi there! Welcome to my GitHub site!
 
-Hi! My name is Katalin. I'm studying Full Stack Development with Runshaw College and Code Institute. I'm very interested in coding, and building websites and applications for the web.
+Hi! My name is Katalin. I'm studying Full Stack Development with Runshaw College and Code Institute. I'm very interested in coding and building websites and applications for the web.
 
 
 - 👋 Hi, I’m Katalin Molnar.
@@ -10,7 +10,7 @@ Hi! My name is Katalin. I'm studying Full Stack Development with Runshaw College
 - 🌱 I’m currently learning HTML, CSS, Python, and JavaScript.
 - 💞️ I’m looking to collaborate on hackathons.
 - 📫 My email address is molnarlin@gmail.com.
-- 😁 Fun fact: my favorite chili grows in Hungary and it is called "apple chili" = "alma paprika".
+- 😁 Fun fact: my favorite chilli grows in Hungary, called "apple chili" = "alma paprika".
 
 
 ## Skills:
