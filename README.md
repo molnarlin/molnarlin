@@ -1,6 +1,7 @@
-![banner for profile readme](banner-github.png)
+![github-banner](https://github.com/user-attachments/assets/eeef30a7-ae80-4c16-9ee8-3f9ea2a14559)
 
 # 🖐 Hi there! Welcome to my GitHub site!
+
 
 Hi! My name is Katalin. I'm studying Full Stack Development with Runshaw College and Code Institute. I'm very interested in coding and building websites and applications for the web.
 
