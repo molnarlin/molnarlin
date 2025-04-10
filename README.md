@@ -11,7 +11,7 @@ Hi! My name is Katalin. I'm studying Full Stack Development with Runshaw College
 - 🌱 I’m currently learning HTML, CSS, Python, and JavaScript.
 - 💞️ I’m looking to collaborate on hackathons.
 - 📫 My email address is molnarlin@gmail.com.
-- 😁 Fun fact: my favorite chilli grows in Hungary, called "apple chili" = "alma paprika".
+- 😁 Fun fact: my favorite chilli grows in Hungary, called "apple chilli" = "alma paprika".
 
 
 ## Skills:
